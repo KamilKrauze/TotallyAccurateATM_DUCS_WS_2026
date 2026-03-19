@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerribleStateMachineLib", "TerribleStateMachineLib\TerribleStateMachineLib.csproj", "{E8309090-9275-45F3-9B7E-69D7036E1C20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerribleStateMachineLibTest", "TerribleStateMachineLibTest\TerribleStateMachineLibTest.csproj", "{6797BCE7-BCDA-4FC0-B0BD-0DF5CDD30E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperGenericExample", "SuperGenericExample\SuperGenericExample.csproj", "{E781BF21-CC18-4123-8B36-5B6971E5AE19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8309090-9275-45F3-9B7E-69D7036E1C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8309090-9275-45F3-9B7E-69D7036E1C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8309090-9275-45F3-9B7E-69D7036E1C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8309090-9275-45F3-9B7E-69D7036E1C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6797BCE7-BCDA-4FC0-B0BD-0DF5CDD30E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6797BCE7-BCDA-4FC0-B0BD-0DF5CDD30E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6797BCE7-BCDA-4FC0-B0BD-0DF5CDD30E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6797BCE7-BCDA-4FC0-B0BD-0DF5CDD30E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E781BF21-CC18-4123-8B36-5B6971E5AE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E781BF21-CC18-4123-8B36-5B6971E5AE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E781BF21-CC18-4123-8B36-5B6971E5AE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E781BF21-CC18-4123-8B36-5B6971E5AE19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
